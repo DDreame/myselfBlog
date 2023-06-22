@@ -3,5 +3,5 @@
 <compents>
     <compent-scan base-package="me.dddream.controller"/>
 
-<!--    <compent-scan base-package="me.dddream.service"/>-->
+    <compent-scan base-package="me.dddream.service"/>
 </compents>
